@@ -1,6 +1,5 @@
 # 2024 MCM Solution Codebase 
 #### This is the solution codebase of 2024 MCM Problem C  
-***Author Group: #2405245***  
   
 ## Hierarchy
 * `model_classifier_paper.py`: Solution to problem 1 & 3, containing the classifier model based on the HGBT for match flow prediction.
